@@ -9,7 +9,7 @@ export const resumeData = {
       { label: 'LinkedIn', url: 'https://www.linkedin.com/in/your-linkedin-profile' },
       { label: 'GitHub', url: 'https://github.com/your-github-username' },
       { label: 'LeetCode', url: 'https://leetcode.com/u/your-leetcode-username' },
-      { label: 'HackerRank', url: 'https://www.hackerrank.com/profile/your-hackerrank-username' },
+      { label: 'HackerRank', url: 'https://www.hackerrank.com/profile/khushikumari5114' },
     ],
   },
   summary:
