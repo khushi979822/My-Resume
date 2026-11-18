@@ -7,7 +7,7 @@ export const resumeData = {
     email: 'khushikumari5114@gmail.com',
     profiles: [
       { label: 'LinkedIn', url: 'https://www.linkedin.com/in/your-linkedin-profile' },
-      { label: 'GitHub', url: 'https://github.com/your-github-username' },
+      { label: 'GitHub', url: 'https://github.com/khushi979822' },
       { label: 'LeetCode', url: 'https://leetcode.com/u/your-leetcode-username' },
       { label: 'HackerRank', url: 'https://www.hackerrank.com/profile/khushikumari5114' },
     ],
